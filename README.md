@@ -1,133 +1,163 @@
-# Hi, I'm Mani Sai 👋
+# Hey, I'm Mani Sai 👋
 
-### B.Tech CSE Student | Java Developer | Problem Solver
+### B.Tech CSE Student | Java Developer | Professional Bug Negotiator
 
-I'm a Computer Science student passionate about **software development, problem solving, and building practical applications**. I enjoy learning new technologies and turning ideas into working solutions.
+I write code, break code, fix code, and occasionally convince myself the bug was there before I touched it.
 
-🏆 **2nd Prize – Anantapur Police Hackathon 2026**
-🎓 **B.Tech CSE | CGPA: 8.7/10**
-
----
-
-## 🚀 About Me
-
-* 🎓 Pursuing **B.Tech in Computer Science and Engineering**
-* 💻 Strong foundation in **Java, OOP, DSA, and SQL**
-* 🌐 Hands-on experience with **React, JavaScript, REST APIs, and PostgreSQL**
-* 🧩 Interested in **Software Development and Full-Stack Development**
-* 🏆 Participated in multiple hackathons and technical competitions
-* 📚 Continuously improving my problem-solving and development skills
+🎓 B.Tech CSE — **CGPA: 8.7/10**
+☕ Java enthusiast
+🧠 DSA & Problem Solving
+🌐 React + JavaScript
+🗄️ SQL & PostgreSQL
+🏆 Hackathon enjoyer
+🐛 Bugs: unfortunately, also a regular collaborator
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Programming
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+* 🔭 Currently building projects and trying not to build unnecessary features at 2 AM.
+* ☕ Java is my comfort zone.
+* 🧩 I enjoy solving programming problems — especially after staring at them for 45 minutes.
+* 🌐 Exploring full-stack development.
+* 🏆 Participated in hackathons, including a **2nd Prize** at the Anantapur Police Hackathon 2026.
+* 📚 Currently improving my DSA, Java, databases, and backend skills.
+* 💻 I believe every project starts with **“This should be easy”** and ends with **“Why is this happening?”**
 
 ---
 
-## 💻 Featured Projects
+## 🛠️ Things I Work With
 
-### 📌 Deadline Tracker Application
+### ☕ Programming
+
+`Java` `C` `JavaScript`
+
+### 🌐 Web Development
+
+`HTML` `CSS` `React` `Node.js` `REST APIs`
+
+### 🗄️ Databases
+
+`PostgreSQL` `MySQL` `SQL`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code` `Postman` `Power BI`
+
+---
+
+## 🚀 Some Things I've Built
+
+### 📋 Deadline Tracker
 
 **React • Java • PostgreSQL • Email Services**
 
-A task and deadline management application designed to help users organize tasks and stay updated on upcoming deadlines.
+A task and deadline management application because apparently remembering deadlines manually is too advanced.
 
 * User authentication and CRUD operations
-* Due-date, priority, and task-status management
+* Due-date and priority management
+* Task status tracking
 * Automated email reminders
-* Filters for completed, overdue, and priority-based tasks
+* Filters for overdue, completed, and priority tasks
 
-🔗 [View Repository](https://github.com/ManiSai-code/Dead-Line-Tracker)
+🔗 [View Project](https://github.com/ManiSai-code/Dead-Line-Tracker)
 
 ---
 
-### 📌 Cyber Fraud Money Trail Intelligence System
+### 🔍 Cyber Fraud Money Trail Intelligence System
 
 **React • JavaScript • REST APIs**
 
-A prototype designed to help law enforcement analyze suspicious financial transactions and understand complex money-flow networks.
+A prototype designed to help law enforcement analyze suspicious transactions and visualize money-flow networks.
 
-* Suspicious transaction analysis
+* Transaction analysis
 * Money-flow visualization
-* Fraud pattern identification
+* Fraud pattern detection
 * Investigation report generation
 
-🏆 **2nd Prize – Anantapur Police Hackathon 2026**
+🏆 **2nd Prize — Anantapur Police Hackathon 2026**
+
+Apparently the bugs weren't the only thing we managed to track.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Things I'm Weirdly Proud Of
 
-🥈 **2nd Prize** — Anantapur Police Hackathon 2026
-Cyber Fraud Money Trail Intelligence System
+🥈 **2nd Prize — Anantapur Police Hackathon 2026**
 
-🏅 **Consolation Prize** — Zynetrox National Online Hackathon 2026
-HealthBridge – AI-enabled healthcare solution
+🏅 **Consolation Prize — Zynetrox National Online Hackathon 2026**
 
-🚀 Participated in **multiple national-level hackathons**, gaining experience in teamwork, rapid prototyping, and problem solving.
+🚀 Participated in multiple hackathons.
 
----
-
-## 📚 Currently Learning
-
-* ☕ Advanced Java
-* 🧠 Data Structures & Algorithms
-* 🗄️ Database Management
-* 🌐 Full-Stack Development
-* 🔧 Backend Development
+💻 Survived college assignments, lab records, project deadlines, and Git merge conflicts.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Currently Learning
 
+```text
+Java
+ ├── OOP
+ ├── Collections
+ └── DSA
+
+Web Development
+ ├── React
+ ├── REST APIs
+ └── Backend Development
+
+Databases
+ ├── SQL
+ └── PostgreSQL
+```
+
+Current status:
+
+`Learning → Coding → Debugging → Googling → Fixing → Repeat`
+
+---
+
+## 📈 GitHub Activity
+
+No fancy statistics here.
+
+My GitHub isn't exactly running a marathon right now. 🏃‍♂️💀
+
+But the repositories that are here contain actual projects, experiments, and college work — feel free to explore them.
+
+**Quality > green squares.** 😌
+
+---
+
+## 🎯 2026 Mission
+
+```text
+☑ Build better projects
+☑ Improve Java
+☑ Get better at DSA
+☑ Learn backend development
+☑ Participate in more hackathons
+☐ Stop saying "I'll fix it tomorrow"
+☐ Understand why the code worked yesterday
+```
+
+---
+
+## 📫 Find Me Here
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mani%20Sai-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/Manisai18)
+[![GitHub](https://img.shields.io/badge/GitHub-ManiSai--code-black?style=for-the-badge\&logo=github)](https://github.com/ManiSai-code)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:kummara.manisai@gmail.com)
+
+---
+
+### ⚡ Random Developer Fact
+
+> “It works on my machine.”
+
+— Every developer, eventually.
+-- My ChatGPT doesn't know jokes, but somehow I do.
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManiSai-code&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiSai-code&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/Manisai18">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kummara.manisai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ManiSai-code">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Learning, building, and improving one project at a time.”</i>
+  <i>Thanks for visiting. Now please don't judge my commit history.</i> 😭
+  <i>Edited with ChatGPT — ’cause I don’t edit when ChatGPT isn’t hallucinating.</i>
 </p>
