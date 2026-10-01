@@ -149,6 +149,7 @@ But the repositories that are here contain actual projects, experiments, and col
 [![GitHub](https://img.shields.io/badge/GitHub-ManiSai--code-black?style=for-the-badge\&logo=github)](https://github.com/ManiSai-code)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:kummara.manisai@gmail.com)
 
+I can speak Hindi, English, Telugu, and German —i can speak german as far as that green bird taught me. 🦜
 ---
 
 ### ⚡ Random Developer Fact
@@ -156,7 +157,7 @@ But the repositories that are here contain actual projects, experiments, and col
 > “It works on my machine.”
 
 — Every developer, eventually.
--- My ChatGPT doesn't know jokes, but somehow I do.
+-- My ChatGPT doesn't know jokes, i asked for a joke and it gave me this and i don't know any jokes to change😭😭😭😭😭 and claims it as a fact see this guy hallucinates.
 <p align="center">
   <i>Thanks for visiting. Now please don't judge my commit history.</i> 😭
   <i>Edited with ChatGPT — ’cause I don’t edit when ChatGPT isn’t hallucinating.</i>
