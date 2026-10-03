@@ -30,7 +30,7 @@ I write code, break code, fix code, and occasionally convince myself the bug was
 
 ### ☕ Programming
 
-`Java` `C` `JavaScript`
+`Java` `C` `JavaScript -a bit;(`
 
 ### 🌐 Web Development
 
@@ -42,7 +42,7 @@ I write code, break code, fix code, and occasionally convince myself the bug was
 
 ### 🔧 Tools
 
-`Git` `GitHub` `VS Code` `Postman` `Power BI`
+`Git` `GitHub` `VS Code` `Postman` `Power BI - I Used it one time :|`
 
 ---
 
